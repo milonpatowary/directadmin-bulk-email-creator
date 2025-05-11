@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.pyo
+dist/
+build/
+env/
+venv/
+data/* #  Ignore the 'data' directory (or modify as needed)
